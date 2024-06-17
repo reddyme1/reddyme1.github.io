@@ -10,10 +10,5 @@ Guardian Glass Intern
 ### Projects
 
 
-nav_links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Projects
-    url: /projects/
+- [Home](/)
+- [About](/about/)
