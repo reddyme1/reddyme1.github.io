@@ -2,6 +2,9 @@
 
 #### Technical Skills: C++, Java, Python, HTML, MatLab, RStudio, SQL, Seeq
 
+## About Me
+Welcome to my portfolio! I am currently pursuing a degree in Computational Data Science at Michigan State University's College of Engineering, with an expected graduation date of May 2026. My academic journey is deeply rooted in a comprehensive curriculum that includes Differential Equations, Computational Modeling, Data Analysis, Multivariable Calculus, and Statistics, among other relevant courses. This diverse coursework has equipped me with a solid foundation in both theoretical and practical aspects of data science and engineering.
+
 ## Education
 B.S., Computational Data Science | Michigan State University (_May 2026_) 
 
@@ -35,3 +38,8 @@ Developed a predictive analytics model to optimize crop yields and minimize envi
 - Collected and preprocessed large datasets from agricultural sensors and meteorological stations.
 - Built and trained regression models to forecast crop yields based on environmental conditions
 - Implemented visualization tools in R to present actionable insights to farmers.
+
+## Connect
+I am always open to new opportunities, collaborations, and connections. Feel free to reach out to me through any of the following methods:
+- [LinkedIn](https://www.linkedin.com/in/meghana-srinivas-reddy-07042003/)
+- [GitHub](https://github.com/reddyme1)
