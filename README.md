@@ -13,14 +13,12 @@ B.S., Computational Data Science | Michigan State University (_May 2026_)
 
 ## Projects
 **Library Resource Allocation with Machine Learning**
-#### Description:
 Designed a machine learning system to optimize the allocation of library resources at the MSU Law Library. Focused on improving the availability and accessibility of high-demand materials.
 - Analyzed historical data on library resource usage and user behavior.
 - Implemented a recommendation system to suggest resource allocation adjustments.
 - Enhanced the user interface for library staff to track and manage resource distribution.
 
 **Predictive Analytics for Sustainable Agriculture**
-#### Description:
 Developed a predictive analytics model to optimize crop yields and minimize environmental impact. Utilized machine learning algorithms in Python to analyze historical weather data, soil quality metrics, and crop performance.
 - Collected and preprocessed large datasets from agricultural sensors and meteorological stations.
 - Built and trained regression models to forecast crop yields based on environmental conditions
