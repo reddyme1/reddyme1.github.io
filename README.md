@@ -13,8 +13,8 @@ B.S., Computational Data Science | Michigan State University (_May 2026_)
 
 ### Projects
 **Library Resource Allocation with Machine Learning**
-- Designed a machine learning system to optimize the allocation of library resources at the MSU Law Library. Focused on improving the availability and accessibility of high-demand materials.
--Key Features:
+
+Designed a machine learning system to optimize the allocation of library resources at the MSU Law Library. Focused on improving the availability and accessibility of high-demand materials.
   - Analyzed historical data on library resource usage and user behavior.
   - Implemented a recommendation system to suggest resource allocation adjustments.
   - Enhanced the user interface for library staff to track and manage resource distribution.
