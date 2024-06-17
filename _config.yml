@@ -1,3 +1,13 @@
 title: Meghana Reddy
 show_downloads: true
 theme: jekyll-theme-minimal
+
+
+# Navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
