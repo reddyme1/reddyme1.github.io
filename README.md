@@ -11,4 +11,4 @@ Guardian Glass Intern
 
 
 - [Home](/)
-- [About](/about/)
+- [About Me](about.md)
